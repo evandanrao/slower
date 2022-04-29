@@ -28,7 +28,7 @@
 	<include file="$(find global_mapper_ros)/launch/global_mapper_node.launch" />
 
 	<!-- FASTER JPS3D -->
-	<include file="$(find jps3d_ros)/launch/jps3d_ros.launch" /-->
+	<include file="$(find jps3d_ros)/launch/jps3d_ros.launch" />
 
 	<!-- Convex Decomposition -->
 	<include file="$(find convex_decomposer)/launch/start_convex_decomposition.launch" />
