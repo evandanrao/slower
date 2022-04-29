@@ -39,7 +39,7 @@
 	<!-- Master Node -->
 	<!--include file="$(find master_node)/launch/start_master_node.launch" /-->
 	<!--Launch rviz-->
-	<node type="rviz" name="rviz" pkg="rviz" args="-d $(find convex_decomposer)/videosetup.rviz" />
+	<node type="rviz" name="rviz" pkg="rviz" args="-d $(find convex_decomposer)/rviz.rviz" />
 	
 	<!-- Data Logging -->
 	<?ignore <node name="rosbag" pkg="rosbag" type="record"
