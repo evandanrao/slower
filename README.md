@@ -79,4 +79,11 @@ RVIZ must launch with a sample config file.
 Select the  "2DPose" button or press-g on the keyboard while on rviz and click a goal location to let the drone fly to the goal.
 Visualize the cvx_decomp and local planner using the topics in rviz.
 
-All params are at /src/master_node/param/params.yaml or /src/jps3d_ros/src/jps3dros/jps3d_ros/param/params.yaml
+All params are at 
+```
+/src/master_node/param/params.yaml
+```
+Params for jps3d_ros are at:
+```
+/src/jps3d_ros/src/jps3dros/jps3d_ros/param/params.yaml
+```
