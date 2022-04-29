@@ -2,11 +2,8 @@
 This is our implementation of the paper "FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments"
 The main repo of the paper is at https://github.com/mit-acl/faster
 This repo is further a cleaned version of the wroking repository that is available at : https://github.com/sangitasahu/AER1516.git
-The authors of this work , besides the original authors from the repo are:
-Vandan Eddya Rao
-Matt Brymer
-Sangita Sahu
-Furqan A
+
+The authors of this work , besides the original authors from the repo are:  Vandan Eddya Rao | Matt Brymer | Sangita Sahu | Furqan A
 
 
 
