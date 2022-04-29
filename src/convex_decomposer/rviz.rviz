@@ -96,22 +96,22 @@ Visualization Manager:
     - Alpha: 0.5
       Class: decomp_rviz_plugins/EllipsoidArray
       Color: 204; 51; 204
-      Enabled: false
+      Enabled: true
       Name: EllipsoidArray_CVX
       Topic: /ellipsoid_disp
       Unreliable: false
-      Value: false
+      Value: true
     - Alpha: 0.20000000298023224
       BoundColor: 255; 0; 0
       Class: decomp_rviz_plugins/PolyhedronArray
-      Enabled: false
+      Enabled: true
       MeshColor: 0; 170; 255
       Name: PolyhedronArray_CVX
       Scale: 0.10000000149011612
       State: Both
       Topic: /polyhedra_disp
       Unreliable: false
-      Value: false
+      Value: true
       VsColor: 0; 255; 0
       VsScale: 1
     - Alpha: 0.5
@@ -299,7 +299,7 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 5.364842891693115
+      Distance: 7.53721809387207
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
@@ -317,7 +317,7 @@ Visualization Manager:
       Pitch: 1.2797966003417969
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz)
-      Yaw: 4.230566501617432
+      Yaw: 4.21056604385376
     Saved: ~
 Window Geometry:
   Displays:
