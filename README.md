@@ -86,7 +86,7 @@ Params for jps3d_ros are at:
 ```
  Finally , 
  
- SLOWER -  NAME Credits to Matt Brymer
+ SLOWER -  all name credits to Matt Brymer
  
  Cheers
  Vandan
