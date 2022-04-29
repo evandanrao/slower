@@ -1,0 +1,7 @@
+/devel
+/build
+/src/snapstack_msgs
+/.catkin_tools
+/logs
+/.vscode
+*.pyc
