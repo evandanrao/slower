@@ -1,4 +1,4 @@
-# AER1516 Winter 2022 Project
+# AER1516 Winter 2022 Project - Slower ( Because our implementation is slower than faster-implementation )
 This is our implementation of the paper "FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments"
 The main repo of the paper is at https://github.com/mit-acl/faster
 This repo is further a cleaned version of the wroking repository that is available at : https://github.com/sangitasahu/AER1516.git
@@ -84,3 +84,9 @@ Params for jps3d_ros are at:
 ```
 /src/jps3d_ros/src/jps3dros/jps3d_ros/param/params.yaml
 ```
+ Finally , 
+ 
+ SLOWER -  NAME Credits to Matt Brymer
+ 
+ Cheers
+ Vandan
