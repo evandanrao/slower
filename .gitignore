@@ -1,6 +1,8 @@
 /devel
 /build
 /src/snapstack_msgs
+/src/catkin_simple
+/src/.rosinstall
 /.catkin_tools
 /logs
 /.vscode
