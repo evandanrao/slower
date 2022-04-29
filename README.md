@@ -79,7 +79,7 @@ RVIZ must launch with a sample config file.
 Select the  "2DPose" button or press-g on the keyboard while on rviz and click a goal location to let the drone fly to the goal.
 Visualize the cvx_decomp and local planner using the topics in rviz.
 
-All params are at 
+## All params are at 
 ```
 /src/master_node/param/params.yaml
 ```
