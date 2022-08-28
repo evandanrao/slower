@@ -1,13 +1,14 @@
-# AER1516 Winter 2022 Project - Slower ( Because our implementation is slower than faster-implementation )
-This is our implementation of the paper "FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments"
-The main repo of the paper is at https://github.com/mit-acl/faster
-This repo is further a cleaned version of the wroking repository that is available at : https://github.com/sangitasahu/AER1516.git
+# AER 1516 Winter 2022 Project - Hierarchical Trajectory Planning for Quadrotor Flight in Unknown Environments
 
-The authors of this work , besides the original authors from the repo are:  Vandan Eddya Rao | Matt Brymer | Sangita Sahu | Furqan A
+In this project we implemented a simplified version of the FASTER trajectory planning algorithm presented in the paper "FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments"[1]. The original authors' code is available in the repo: https://github.com/mit-acl/faster
 
+One of our simplifications removes the backup trajectory, which requires some sacrifices in speed to maintain safety. Hence we titled the algorithm SLOWER
 
+This repo is a cleaned version of the working repository that is available at : https://github.com/sangitasahu/AER1516.git
 
-Link to draw.io file:   https://app.diagrams.net/#G1JaMom59_h-Wq3BAk28IzTx_z-1hYDaKI
+The authors of this work, besides the original authors of the paper, are:  Vandan Eddya Rao | Matt Brymer | Sangita Sahu | Furqan Ahmed
+
+Software diagram showing interfaces:   https://app.diagrams.net/#G1JaMom59_h-Wq3BAk28IzTx_z-1hYDaKI
 
 ## Set up the workspace
 This has been tested with Ubuntu 18.04/ROS Melodic
@@ -90,3 +91,10 @@ Params for jps3d_ros are at:
  
  Cheers
  Vandan
+ 
+ References:
+ ``` 
+ [1] J. Tordesillas and J. P. How, “FASTER: Fast and safe trajectory
+planner for navigation in unknown environments,” IEEE Transactions
+on Robotics, 2021.
+```
